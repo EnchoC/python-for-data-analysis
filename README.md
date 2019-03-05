@@ -1,4 +1,4 @@
-# Python基础  
+# Python basic  
   
 ## day1-环境搭建  
   
